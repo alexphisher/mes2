@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:Subsystem xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="ad197615-6f39-47ab-b380-4cc0e3b750c6">
+  <name>MES</name>
+  <synonym>
+    <key>ru</key>
+    <value>MES</value>
+  </synonym>
+  <includeHelpInContents>true</includeHelpInContents>
+  <subsystems>Справочники</subsystems>
+</mdclass:Subsystem>
